@@ -1,0 +1,34 @@
+.bg-primary {
+  background-color: #2196F3;
+  border-color: #2196F3;
+  color: #fff;
+}
+
+.bg-primary-800 {
+  background-color: #1565C0;
+  border-color: #1565C0;
+  color: #fff;
+}
+.navbar {
+  margin-bottom: 0;
+  border-width: 1px 0;
+  height: 55px;
+
+}
+.navbar-header {
+  min-width: 189px;
+}
+.navbar-brand {
+  margin-top:20px;
+  display: block;
+}
+.nav-link{
+  font-size: 14px;
+  color: #fff;  
+  text-decoration: none;
+  margin-right: 20px;
+}
+ .nav-link:hover{
+    color:#64B5F6;
+    text-decoration: none;
+}

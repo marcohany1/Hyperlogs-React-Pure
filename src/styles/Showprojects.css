@@ -1,0 +1,30 @@
+
+.container-lg {
+    max-width: 100%;
+    max-height: 70%;
+    font-size: 18px;
+    margin-top: 4rem !important;
+  }
+   .container-lg .title{
+        color:#0e107d
+   }
+  
+
+.list-group .list-group-item {
+  padding: 20px;
+  border: 2px solid #198754  ;
+
+}
+.list-group .list-group-item button i{
+    cursor: pointer;
+    color: #1d0fe4;
+    
+}
+
+.container-lg ul li span{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-right: 15px;
+  
+  
+}

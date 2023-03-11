@@ -1,0 +1,93 @@
+{
+  "customers": [
+    {
+      "name": "Marco Shehata Sudky Hanyaaa",
+      "email": "Marco_hany2020@yahoo.com",
+      "address": "ABU GELBAN, BANI SAMET",
+      "id": 1,
+      "createdAt": "2021-07-15T08:50:33.864Z",
+      "projectId": {
+        "id": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "name": "Angie Bayer",
+      "email": "Jerel16@gmail.com",
+      "address": "Germany",
+      "id": 2,
+      "createdAt": "2021-07-15T08:50:33.864Z",
+      "projectId": {
+        "id": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "name": "Andrew",
+      "email": "andrew@yahoo.com",
+      "address": "bani mazar",
+      "createdAt": "2023-02-27T13:28:42.750Z",
+      "id": 3,
+      "projectId": {
+        "id": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "name": "Antonio Maxiom",
+      "email": "asdads@adasdad",
+      "address": "asdasdad",
+      "projectId": {
+        "id": 1
+      },
+      "createdAt": "2023-02-07T00:45:50.417Z",
+      "id": 4
+    },
+    {
+      "name": "Ali Ahmed",
+      "email": "Ali Ahmed@yahoo.com",
+      "address": "Ali Ahmed Street",
+      "projectId": {
+        "id": 1
+      },
+      "createdAt": "2023-02-11T00:53:02.080Z",
+      "id": 5
+    }
+  ],
+  "projects": [
+    {
+      "name": "MaxiomLogs",
+      "description": "the best way to manage your time",
+      "customerId": {
+        "id": 1
+      },
+      "createdAt": "2023-02-14T13:41:10.149Z",
+      "id": 1
+    },
+    {
+      "name": "BMW WebSite",
+      "description": "BMW|Best Cars in the world",
+      "customerId": {
+        "id": 3
+      },
+      "createdAt": "2021-02-17T13:41:10.149Z",
+      "id": 2
+    },
+    {
+      "name": "Mercedes WebSite",
+      "description": "BMW|Best Cars in the world",
+      "customerId": {
+        "id": 2
+      },
+      "createdAt": "2021-02-17T13:41:10.149Z",
+      "id": 3
+    }
+  ]
+}

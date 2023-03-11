@@ -1,0 +1,42 @@
+
+ .container-lg {
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 18px;
+    margin-top: 4rem !important;
+  
+}
+.title{
+    margin-bottom: 50px;
+    margin-left: 10px;
+    color:rgb(6, 2, 18);
+    font-size:x-large;
+    font-weight:bolder;
+
+}
+.container-lg button a{
+
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.btn-create-project{
+    position: absolute;
+    right: 92px;
+    top: 97px;
+    
+}
+
+
+table tr th{
+    font-size: 18px;
+    color:rgb(171, 21, 46);
+    background-color: #198754;
+}
+
+table .icons i{
+      cursor: pointer;
+    margin-right: 10px;
+    color: #198754;
+}
